@@ -1,0 +1,21 @@
+WEBSITE NOTES;
+
+Index page/First landing page;  
+Sets the mood, and acts as means of entry to the rest of the site
+
+Second landing page;
+Further acts as a forked road of site exploration, further enhances the mood
+
+History page;
+Self explanatory, goes into any and all information regarding the typeface's origin
+
+About page;
+Displays the facets of the typeface at a cursory glance
+
+Sword Technique page;
+Further displays the facets of the typeface in recreational use
+
+Victory page;
+a little treat for exploring the whole site in this order:
+
+Index -> Slp -> History -> About -> Sword -> Reward/Victory 
